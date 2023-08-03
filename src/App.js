@@ -27,13 +27,21 @@ const ClockContainer = styled.div`
 `;
 
 const Clock = styled.h1`
-  font-size: 10em;
+  font-size: 10vw;
   margin-bottom: 0;
+  
+  @media (min-width: 1200px) {
+    font-size: 120px;
+  }
 `;
 
 const Calendar = styled.h2`
-  font-size: 6em;
+  font-size: 6vw;
   margin-top: 0;
+  
+  @media (min-width: 1200px) {
+    font-size: 72px;
+  }
 `;
 
 
