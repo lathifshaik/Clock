@@ -38,6 +38,4 @@ The application will automatically display the current time and date when starte
 - The theme will change based on the time of day - light during the day (6 AM - 6 PM) and dark during the night (6 PM - 6 AM).
 - The clock uses the 12-hour format.
 
-## License
 
-This project is licensed under the MIT License.
